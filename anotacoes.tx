@@ -1,0 +1,34 @@
+SELECT * FROM tabela (SELECIONA TODAS AS COLUNAS DA TABELA)
+
+LIMIT 50 = limitar 50 
+
+ctrl + shift + q = para iniciar o banco de dados
+
+usar ; para executar + de uma req
+
+.tables para verificar quantas existem no db
+
+-- comentario em linha
+
+/*
+    comentario de multiplas linhas
+*/ 
+
+FILTRAR = WHERE
+
+
+'' = campo
+
+SELECT FILTRA COLUNAS
+WHERE FILTRA LINHAS
+
+OR = OU
+
+IN = QUE TENHA EM 
+
+LIKE = PARECIDO 
+% CORINGA
+
+AS = ALIAS
+
+, CRIA UMA COLUNA (NAO É SALVA NO DB)
