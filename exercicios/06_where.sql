@@ -1,0 +1,5 @@
+--LISTA DE PRODUTOS COM NOME QUE TERMINA COM "Lover";
+
+SELECT *
+FROM produtos
+WHERE DescNomeProduto LIKE '%lover'
