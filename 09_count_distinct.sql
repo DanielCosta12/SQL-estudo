@@ -2,6 +2,6 @@ SELECT
 
     count(*),
     count(DISTINCT IdTransacao),
-    count(DISTINCT IdCliente)
+    count(DISTINCT IdCliente) 
 
 FROM transacoes

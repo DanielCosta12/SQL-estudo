@@ -1,0 +1,4 @@
+-- QUANTOS CLIENTES TEM E-MAIL CADASTRADO?
+SELECT sum(flEmail)
+
+FROM clientes
